@@ -1,1 +1,1 @@
-dApp I built to learn solidity and mint some "Evis Drenova" tokens on the testnet and ropsten.
+dApp I built to learn solidity and mint some "Evis Drenova" tokens on the eth testnet and ropsten.
